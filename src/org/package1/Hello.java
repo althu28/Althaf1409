@@ -6,6 +6,8 @@ public class Hello {
 		
 		System.out.println("Master added the code");
 		
+		System.out.println("Althaf Added the code Successfull!.");
+		
 	}
 
 }
